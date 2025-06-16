@@ -1,0 +1,99 @@
+
+### **Backend Developer**
+**Role:** Develops server-side logic, databases, and APIs.
+**Core Skills:**
+- Languages/Frameworks: Python (Django, Flask), Node.js (Express.js)
+- APIs & Databases: RESTful APIs, SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+- Auth & Security: JWT, OAuth, CORS, rate limiting
+- Performance: Caching (Redis), async tasks (Celery, RabbitMQ)
+- DevOps Basics: Docker, CI/CD (GitHub Actions), Git
+
+---
+
+### **Frontend Developer**
+**Role:** Builds interactive user interfaces.
+**Core Skills:**
+- Core Tech: HTML, CSS, JavaScript (ES6+)
+- Frameworks: React, Angular, or Vue.js
+- Styling: Tailwind CSS, Bootstrap, CSS Grid/Flexbox
+- State Management: Redux, Context API
+- APIs & UX: REST/GraphQL integration, accessibility (ARIA), responsive design
+- Tools: Webpack, Vite, npm/yarn
+
+---
+
+### **Full Stack Developer**
+**Role:** Handles both frontend and backend development.
+**Core Skills:**
+- Frontend: React/Angular/Vue + state management
+- Backend: Node.js/Express or Python/Django/Flask
+- Databases: SQL & NoSQL design/optimization
+- APIs: REST/GraphQL design & integration
+- Deployment: Vercel, Heroku, AWS, Docker
+- Version Control: Git, GitHub/GitLab workflows
+
+---
+
+### **DevOps Engineer**
+**Role:** Automates and optimizes development pipelines.
+**Core Skills:**
+- CI/CD: Jenkins, GitHub Actions, GitLab CI
+- Containerization: Docker, Kubernetes
+- IaC: Terraform, Ansible
+- Cloud: AWS/GCP/Azure (EC2, S3, Lambda)
+- Monitoring: Prometheus, Grafana, ELK Stack
+- Scripting: Bash, Python
+
+---
+
+### **AI/ML Engineer**
+**Role:** Builds and deploys machine learning models.
+**Core Skills:**
+- Languages: Python (pandas, NumPy)
+- Frameworks: TensorFlow, PyTorch, scikit-learn
+- NLP/CV: Transformers, OpenCV
+- Model Lifecycle: Training, evaluation, deployment
+- Data Handling: Cleaning, feature engineering
+- MLOps: MLflow, Kubeflow
+
+---
+
+### **Data Scientist**
+**Role:** Extracts insights from complex data.
+**Core Skills:**
+- Analysis Tools: Python (pandas, seaborn), R, SQL
+- Statistics: Regression, clustering, hypothesis testing
+- Visualization: Matplotlib, Tableau, Power BI
+- ML Basics: Supervised/unsupervised learning
+- Storytelling: Presenting findings effectively
+
+---
+
+### **Software Engineering Best Practices**
+**Essentials:**
+- Code Quality: Clean code, SOLID principles, design patterns
+- Testing: Unit/integration tests (Jest, pytest)
+- Collaboration: Git, PR reviews, documentation
+- Architecture: Scalable system design
+- Problem Solving: DSA, system design
+
+---
+
+### **Career Growth Tips**
+**Actionable Advice:**
+- Build portfolio projects
+- Contribute to open-source
+- Practice DSA (LeetCode)
+- Network on LinkedIn
+- Write tech blogs
+- Learn soft skills (communication, teamwork)
+
+---
+
+### **Essential Tools**
+**Development Stack:**
+- IDEs: VS Code, PyCharm, Jupyter
+- Databases: PostgreSQL, MongoDB, Firebase
+- Deployment: Docker, Kubernetes, AWS
+- Collaboration: GitHub, Slack, Notion
+- Monitoring: Grafana, Prometheus
