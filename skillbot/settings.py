@@ -25,8 +25,14 @@ SECRET_KEY = 'django-insecure-087x$mlok6h6ze%^_k-zu3l3kvt34h6711t_zu_m0qcx04mbtf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://skillbot-nlp-job-answer.onrender.com"]
+# ALLOWED_HOSTS = ["https://skillbot-nlp-job-answer.onrender.com"]
+# ALLOWED_HOSTS = ['*']
 
+ALLOWED_HOSTS = [
+    "skillbot-nlp-job-answer.onrender.com",  # Render deployment
+    "localhost",                             # Local dev
+    "127.0.0.1"                              # Local dev
+]
 
 # Application definition
 
